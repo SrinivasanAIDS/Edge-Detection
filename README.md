@@ -1,4 +1,7 @@
-# Edge-Detection
+### Ex No: 7
+### Date:
+
+# <p align="center"> Edge-Detection </p>
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
